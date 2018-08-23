@@ -1,0 +1,8 @@
+version: '3'
+
+services:
+  apitemperatura:
+    image: apitemperatura
+    build:
+      context: .
+      dockerfile: ApiTemperatura/Dockerfile

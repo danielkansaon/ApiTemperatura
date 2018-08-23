@@ -1,0 +1,11 @@
+C:\Users\930435\source\repos\ApiTemperatura\ApiTemperatura\bin\Debug\netcoreapp2.0\ApiTemperatura.deps.json
+C:\Users\930435\source\repos\ApiTemperatura\ApiTemperatura\bin\Debug\netcoreapp2.0\ApiTemperatura.runtimeconfig.json
+C:\Users\930435\source\repos\ApiTemperatura\ApiTemperatura\bin\Debug\netcoreapp2.0\ApiTemperatura.runtimeconfig.dev.json
+C:\Users\930435\source\repos\ApiTemperatura\ApiTemperatura\bin\Debug\netcoreapp2.0\ApiTemperatura.dll
+C:\Users\930435\source\repos\ApiTemperatura\ApiTemperatura\obj\Debug\netcoreapp2.0\ApiTemperatura.csprojResolveAssemblyReference.cache
+C:\Users\930435\source\repos\ApiTemperatura\ApiTemperatura\obj\Debug\netcoreapp2.0\ApiTemperatura.csproj.CoreCompileInputs.cache
+C:\Users\930435\source\repos\ApiTemperatura\ApiTemperatura\obj\Debug\netcoreapp2.0\ApiTemperatura.AssemblyInfoInputs.cache
+C:\Users\930435\source\repos\ApiTemperatura\ApiTemperatura\obj\Debug\netcoreapp2.0\ApiTemperatura.AssemblyInfo.cs
+C:\Users\930435\source\repos\ApiTemperatura\ApiTemperatura\bin\Debug\netcoreapp2.0\ApiTemperatura.pdb
+C:\Users\930435\source\repos\ApiTemperatura\ApiTemperatura\obj\Debug\netcoreapp2.0\ApiTemperatura.dll
+C:\Users\930435\source\repos\ApiTemperatura\ApiTemperatura\obj\Debug\netcoreapp2.0\ApiTemperatura.pdb
